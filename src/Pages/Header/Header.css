@@ -1,0 +1,14 @@
+.top-bar {
+    background-color: red;
+    color: white;
+}
+
+.container.menus a:not(:first-child) {padding: 10px;font-size: 18px;}
+
+.container.menus {
+    padding: 11px;
+}
+.menu-bar{
+
+    background-color: #f3f3f3;
+}
